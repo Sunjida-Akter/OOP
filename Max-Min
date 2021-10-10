@@ -1,0 +1,10 @@
+package oop;
+public class Main { 
+public static void main(String[] args)  {
+
+int  a=9;
+int  b=5;
+System.out.println(Math.max(a)); 
+System.out.println(Math.min(b)); 
+}
+}
